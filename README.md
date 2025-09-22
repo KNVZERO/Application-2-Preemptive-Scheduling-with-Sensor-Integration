@@ -1,5 +1,9 @@
 # Application-2-Preemptive-Scheduling-with-Sensor-Integration
 
+Kelvin Vu 
+
+536733
+
 # Implementation Guide Questions:
 
 1. 3.3V was used for input voltage.  For a lux of 10000, it was calculated to be 
